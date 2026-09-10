@@ -5,10 +5,16 @@ Sviluppo web e PHP in freelance (StarZero). Sistemo e costruisco prodotti e piat
 Sito: https://starzero.it  
 LinkedIn: https://www.linkedin.com/in/fabio-guin-starzero
 
-## In evidenza fuori da GitHub
+## Come lavoro (prova pubblica)
 
-Uno dei progetti più completi sul lato tecnico: [eFloriculture](https://efloriculture.com) (marketplace B2B florovivaismo).
+[Nasa-Neo](https://github.com/FabioGuin/Nasa-Neo) — dashboard Near Earth Objects sui dati NASA, con frontend funzionante. Nata per la challenge Arkemis (tra le soluzioni in evidenza). Live: https://neo.starzero.it/
 
-## Repo qui
+È il pezzo da aprire per capire stack, trade-off e modo di ragionare su errori e limiti API.
 
-Guide, componenti e appunti di lavoro che tengo pubblici. Il codice dei clienti resta privato.
+## Fuori da GitHub
+
+Uno dei progetti più completi sul lato tecnico: [eFloriculture](https://efloriculture.com) (marketplace B2B florovivaismo). Codice cliente e prodotti chiusi restano privati.
+
+## Altro qui
+
+Guide e componenti che tengo pubblici a supporto del mestiere.
