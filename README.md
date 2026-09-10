@@ -1,20 +1,16 @@
 # Fabio Guin
 
-Sviluppo web e PHP in freelance (StarZero). Sistemo e costruisco prodotti e piattaforme; il percorso più solido è in PHP, soprattutto con Laravel.
+Lavoro su prodotti e piattaforme web da sistemare, sbloccare o costruire con criterio. Il percorso più solido è in PHP, soprattutto con Laravel; da lì mi muovo anche su altri pezzi dello stack o linguaggi quando il progetto lo chiede.
 
-Sito: https://starzero.it  
-LinkedIn: https://www.linkedin.com/in/fabio-guin-starzero
+Mi occupo di codebase da riportare sotto controllo, di piattaforme su misura (backend, API, backoffice, pezzi full stack quando servono) e di collaborazioni nel tempo.
 
-## Come lavoro (prova pubblica)
+Preferisco pochi impegni alla volta, così il lavoro resta seguito per intero. L’AI la uso ogni giorno da tempo, come volano di competenze già consolidate dall’esperienza, non come sostituto.
 
-[Nasa-Neo](https://github.com/FabioGuin/Nasa-Neo) — dashboard Near Earth Objects sui dati NASA, con frontend funzionante. Nata per la challenge Arkemis (tra le soluzioni in evidenza). Live: https://neo.starzero.it/
+Una prova pubblica di come lavoro, con frontend funzionante, è [Nasa-Neo](https://github.com/FabioGuin/Nasa-Neo) (live: https://neo.starzero.it/): dashboard Near Earth Objects sui dati NASA, nata per una challenge Arkemis e finita tra le soluzioni in evidenza.
 
-È il pezzo da aprire per capire stack, trade-off e modo di ragionare su errori e limiti API.
+Uno dei progetti più completi e complessi che ho seguito interamente sul lato tecnico è [eFloriculture](https://efloriculture.com), marketplace B2B per il florovivaismo. Il codice dei clienti resta privato; qui trovi anche guide e componenti aperti.
 
-## Fuori da GitHub
+Se ti va di scambiare due parole su un progetto o su una collaborazione, scrivimi pure.
 
-Uno dei progetti più completi sul lato tecnico: [eFloriculture](https://efloriculture.com) (marketplace B2B florovivaismo). Codice cliente e prodotti chiusi restano privati.
-
-## Altro qui
-
-Guide e componenti che tengo pubblici a supporto del mestiere.
+https://starzero.it  
+https://www.linkedin.com/in/fabio-guin-starzero
