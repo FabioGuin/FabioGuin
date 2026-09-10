@@ -1,16 +1,14 @@
-## Hi there 👋
+# Fabio Guin
 
-<!--
-**FabioGuin/FabioGuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sviluppo web e PHP in freelance (StarZero). Sistemo e costruisco prodotti e piattaforme; il percorso più solido è in PHP, soprattutto con Laravel.
 
-Here are some ideas to get you started:
+Sito: https://starzero.it  
+LinkedIn: https://www.linkedin.com/in/fabio-guin-starzero
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## In evidenza fuori da GitHub
+
+Uno dei progetti più completi sul lato tecnico: [eFloriculture](https://efloriculture.com) (marketplace B2B florovivaismo).
+
+## Repo qui
+
+Guide, componenti e appunti di lavoro che tengo pubblici. Il codice dei clienti resta privato.
