@@ -2,14 +2,14 @@
 
 **Laravel full stack freelance, backend specialist.** Supporto team per agenzie e altri freelance.
 
-Lavoro sul web dal 2007 e come freelance dal 2012 con **StarZero**. Full stack, con orientamento al backend e solida esperienza sul frontend; lavoro soprattutto con PHP e Laravel. Quando mi affidi la parte tecnica, posso seguire il progetto per intero fino in produzione: sviluppo, deploy, CI/CD, gestione server e integrazioni.
+Loreggia, Padova (remoto). [starzero.it](https://starzero.it) | [LinkedIn](https://www.linkedin.com/in/fabio-guin-starzero) | [info@starzero.it](mailto:info@starzero.it)
 
-Affianco team di agenzie e altri freelance su applicativi già in produzione: intervengo dove codice o debito tecnico creano attrito, rimetto in ordine le priorità e porto avanti lo sviluppo con consegne a step. Su codebase Laravel già avviati lavoro su refactor, sicurezza e governabilità; progetto piattaforme su misura con API REST, Livewire e backoffice Filament o Nova; integro e-commerce, gestionali e sistemi terzi con ETL, webhook e code.
+Full stack con forte orientamento al backend e solida esperienza sul frontend. Sviluppo principalmente in PHP e Laravel. Collaboro con agenzie e team su piattaforme già in produzione, oppure ne seguo la parte tecnica dall’inizio. Quando mi affidano la responsabilità tecnica, vado oltre lo sviluppo applicativo: deploy, CI/CD, server e integrazioni.
 
-La prova pubblica di come scrivo codice e interfaccia è **[Nasa-Neo](https://github.com/FabioGuin/Nasa-Neo)** ([neo.starzero.it](https://neo.starzero.it/)): dashboard Near Earth Objects su dati NASA NeoWs, fatta per la challenge Arkemis e finita tra le soluzioni in evidenza.
+Su GitHub la prova pubblica di come imposto codice e interfaccia è **[Nasa-Neo](https://github.com/FabioGuin/Nasa-Neo)** ([neo.starzero.it](https://neo.starzero.it/)): dashboard Near Earth Objects su API NASA NeoWs (Laravel + Livewire), fatta per la challenge Arkemis e finita tra le soluzioni in evidenza. Proxy, cache, filtri, dettaglio, grafici, test: metodo e UI, non solo uno snippet.
 
-Uno dei progetti più complessi che seguo per intero sul lato tecnico è **[eFloriculture](https://efloriculture.com)**, marketplace B2B per il florovivaismo. È un mercato lontano dall’e-commerce classico: listini stagionali in PDF o Excel, diversi tra loro, e vendite che passano ancora per telefono, preventivo e accordi a voce. Ho progettato l’impostazione tecnica partendo da questi problemi. Il codice di quel prodotto non è su GitHub; in questo profilo trovi Nasa-Neo e altri repository aperti (guide e componenti Laravel).
+Fuori da questo profilo (codice non pubblico) porto avanti prodotti più lunghi. Su **[eFloriculture](https://efloriculture.com)**, marketplace B2B florovivaismo, ho costruito l’infrastruttura: listini stagionali eterogenei in catalogo, flusso da preventivo a chiusura pratica. Su un portale per collezionisti di cinema sto rifacendo da zero una piattaforma legacy, con migrazione di migliaia di schede e parti nuove come la moderazione. Qui trovi Nasa-Neo e repository aperti (guide e componenti Laravel).
 
-Se ti va di scambiare due chiacchiere su una collaborazione nel team, su un progetto, o sull’impostazione tecnica di eFloriculture, scrivimi pure su LinkedIn o via mail.
+Vengo da studi artistici e sono arrivato alla programmazione da autodidatta; dal 2007 è mestiere sul web, dal 2012 come freelance (StarZero). Mi serve ancora: dominio e dati sporchi prima dello stack da brochure.
 
-Loreggia, Padova (remoto). [starzero.it](https://starzero.it) · [LinkedIn](https://www.linkedin.com/in/fabio-guin-starzero) · [info@starzero.it](mailto:info@starzero.it)
+Per una collaborazione o uno scambio tecnico: LinkedIn, mail, o [starzero.it](https://starzero.it).
