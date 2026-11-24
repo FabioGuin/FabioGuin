@@ -10,6 +10,6 @@ Su GitHub la prova pubblica di come imposto codice e interfaccia è **[Nasa-Neo]
 
 Fuori da questo profilo (codice non pubblico) porto avanti prodotti più lunghi. Su **[eFloriculture](https://efloriculture.com)**, marketplace B2B florovivaismo, ho costruito l’infrastruttura: listini stagionali eterogenei in catalogo, flusso da preventivo a chiusura pratica (quasi 2.000 utenti B2B, fino a circa 1.500 prodotti in alta stagione). Su un altro incarico sto rifacendo da zero un portale per collezionisti di cinema (piattaforma legacy): quasi 1.200 schede film con 2–5 immagini ad alta risoluzione ciascuna, moderazione dei contributi, in fase di rilascio. Qui trovi Nasa-Neo e repository aperti (guide e componenti Laravel).
 
-Vengo da studi artistici e sono arrivato alla programmazione da autodidatta; dal 2007 è mestiere sul web, dal 2012 come freelance (StarZero). Mi serve ancora: dominio e dati sporchi prima dello stack da brochure.
+Vengo da studi artistici e sono arrivato alla programmazione da autodidatta; professionalmente attivo dal 2007, freelance dal 2012 (StarZero).
 
 Per una collaborazione o uno scambio tecnico: LinkedIn, mail, o [starzero.it](https://starzero.it).
